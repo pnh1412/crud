@@ -1,0 +1,8 @@
+.custom-card-img {
+  width: 100%;
+  /* Điều chỉnh kích thước hình ảnh để lấp đầy khung thẻ */
+  height: 200px;
+  /* Tự động điều chỉnh chiều cao theo tỷ lệ */
+  object-fit: cover;
+  /* Hiển thị hình ảnh mà không biến dạng */
+}
